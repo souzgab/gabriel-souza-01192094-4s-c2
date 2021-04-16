@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">Atividade</string>
+    <string name="cadastrar">Cadastrar</string>
+    <string name="insira_abaixo_sua_pesquisa">Pesquise o Cachorro Abaixo</string>
+    <string name="cadastrarCachorroInfo">Cadastre um Cachorro Abaixo</string>
+    <string name="cadastrarDog">Cadastrar Cachorro</string>
+    <string name="listDogs">Listar Cachorros</string>
+    <string name="qual_o_precoMedio">Qual o Preço médio?</string>
+    <string name="indicado_kids">É indicado para Crianças?</string>
+    <string name="qual_raca_dog">Qual a raça do seu cachorro?</string>
+    <string name="backButton"><![CDATA[<]]></string>
+    <string name="cachorro_Indicado_kids">Cachorros indicados para crianças</string>
+    <string name="nao_indicado_kids">Cachorros não indicados para crianças</string>
+    <string name="contagem_total">Contagem Total</string>
+</resources>
